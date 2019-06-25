@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS rentals;
+
+CREATE DATABASE rentals;
