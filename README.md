@@ -1,7 +1,7 @@
 # Third normal form (3NF) with PostgreSQL and SQL
 This is the simple demonstration on the 3NF database with plain SQL transformation. 
 
-![Rentals_ERD](/Users/john/Desktop/master/psql-3nf/rentals_erd.png)
+![Rentals_ERD](https://github.com/tharid007/psql-3nf/blob/master/resources/rentals_erd.png?raw=true)
 
 ## Requirement
 * PostgreSQL Database 
