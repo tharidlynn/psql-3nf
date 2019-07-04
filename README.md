@@ -7,7 +7,7 @@ This is the simple demonstration on the 3NF database with plain SQL transformati
 * PostgreSQL Database 
 
 ## Step by Step
-_Note: do not forget to change your path in "01_import_data.sql"_
+_Note: do not forget to change your path in `01_import_data.sql`_
 
 1. Create a new database by executing `psql -f sql/00_create_db.sql`
 2. Import data with `psql -d rentals -f sql/01_import_data.sql` 
